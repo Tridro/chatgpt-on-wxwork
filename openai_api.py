@@ -179,7 +179,6 @@ def retry_with_exponential_backoff(func, initial_delay: float = 1, exponential_b
 
 class OpenAIBot:
     def __init__(self):
-        log.setup_logger()
         openai.api_key = settings.OPENAI_API_KEY
 
     async def reply(self, query, user_id, q_type: str = 'text'):
