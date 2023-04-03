@@ -57,4 +57,24 @@ $ ./server.sh stop
 $ ./server.sh restart
 ```
 #### 4. 进行wxwork的回调验证, 成功后就可以愉快的玩耍了
-还不会在readme中贴图, 后面以图文形式再完善流程
+* 进入企业微信后台
+
+![进入企业微信后台](https://user-images.githubusercontent.com/42351086/229404910-69a6adb7-e8d2-44f2-80eb-0c1c39f1f4bb.png)
+* 自建APP
+
+![自建APP配置](https://user-images.githubusercontent.com/42351086/229405021-419e0005-e46b-46a6-84d7-ffada4365697.png)
+* 回调配置验证
+
+![回调配置](https://user-images.githubusercontent.com/42351086/229405119-5450029c-6f56-4106-b423-4b9f90c73a0c.png)
+
+## 应用效果
+* 企业微信App效果图
+
+![企业微信App效果图](https://user-images.githubusercontent.com/42351086/229401944-6efb073b-1198-493b-b556-982c21e7ccdd.png)
+* 同时支持微信接口调用
+
+![同时支持微信接口调用](https://user-images.githubusercontent.com/42351086/229401985-cb78aa8b-0842-42d2-90a6-d416e06fc768.png)
+* 微信App效果图
+
+![微信App效果图](https://user-images.githubusercontent.com/42351086/229402126-756861d9-5932-4e3b-9e16-762d9403c06b.png)
+
